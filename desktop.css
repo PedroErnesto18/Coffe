@@ -1,0 +1,45 @@
+@charset "UTF-8";
+main {
+
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffff;
+    box-shadow: 2px 2px 5px #3117128c;
+
+}
+
+body { 
+    
+    background-image: linear-gradient(#ac938e85,#ffff
+    );
+    width: 100%;
+    height: 100vh;
+
+}
+
+#cabecalho600 {
+
+    display: block;
+    background-color: #311712;
+    text-align: left;
+
+}
+
+#cabecalho420 {
+    
+    display: none;
+    
+}
+
+#desktop {
+
+    display: block;
+
+}
+
+#cel {
+
+    display: none;
+
+}
